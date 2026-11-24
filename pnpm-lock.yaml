@@ -194,8 +194,8 @@ importers:
         specifier: ^2.2.6
         version: 2.2.6
       tailwind-merge:
-        specifier: ^3.5.0
-        version: 3.5.0
+        specifier: ^3.7.1
+        version: 3.7.1
       tailwindcss-animate:
         specifier: ^1.0.7
         version: 1.0.7(tailwindcss@4.1.14)
@@ -4280,8 +4280,8 @@ packages:
     resolution: {integrity: sha512-H+ue8Zo4vJmV2nRjpx86P35lzwDT3nItnIsocgumgr0hHMQ+ZGq5vrERg9kJBo5AWGmxZDhzDo+WVIJqkB0cGA==}
     engines: {node: '>=16'}
 
-  tailwind-merge@3.5.0:
-    resolution: {integrity: sha512-I8K9wewnVDkL1NTGoqWmVEIlUcB9gFriAEkXkfCjX5ib8ezGxtR3xD7iZIxrfArjEsH7F1CHD4RFUtxefdqV/A==}
+  tailwind-merge@3.7.1:
+    resolution: {integrity: sha512-v7y4BV4FUlO8exj/4M5UXKeoowDiuugVUg3tkMNIyOUCOHy5xp8+5aWQeXCtZ2491sUV1YPsVeM9EveZ6/xuZQ==}
 
   tailwindcss-animate@1.0.7:
     resolution: {integrity: sha512-bl6mpH3T7I3UFxuvDEXLxy/VuFxBk5bbzplh7tXI68mwMokNYd1t9qPBHlnyTwfa4JGC4zP516I1hYYtQ/vspA==}
@@ -9160,7 +9160,7 @@ snapshots:
       remark-gfm: 4.0.1
       remark-math: 6.0.0
       shiki: 3.14.0
-      tailwind-merge: 3.5.0
+      tailwind-merge: 3.7.1
     transitivePeerDependencies:
       - '@types/react'
       - supports-color
@@ -9186,7 +9186,7 @@ snapshots:
     dependencies:
       copy-anything: 4.0.5
 
-  tailwind-merge@3.5.0: {}
+  tailwind-merge@3.7.1: {}
 
   tailwindcss-animate@1.0.7(tailwindcss@4.1.14):
     dependencies:
@@ -9372,7 +9372,7 @@ snapshots:
       nanoid: 5.1.16
       react: 19.2.1
       react-dom: 19.2.1(react@19.2.1)
-      tailwind-merge: 3.5.0
+      tailwind-merge: 3.7.1
 
   vite@8.1.6(@types/node@24.7.0)(esbuild@0.28.2)(jiti@2.7.0)(tsx@4.20.6):
     dependencies:
